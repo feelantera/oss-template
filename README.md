@@ -20,7 +20,7 @@
 
 [![Contributions](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat-square)](./CODE_OF_CONDUCT.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/riipandi/twistail?style=flat-square)](https://github.com/riipandi/twistail/graphs/contributors)
-[![License](https://img.shields.io/github/license/yml?style=flat-square)][choosealicense]
+[![License](https://img.shields.io/github/license/feelantera/skeleton?style=flat-square)][choosealicense]
 [![GitHub Sponsors](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi)
 
 </div>
