@@ -51,7 +51,7 @@ _TODO_
 
 ## Thanks to...
 
-In general, I'd like to thank every single one who open-sources their source code for their effort to contribute
+In general, we'd like to thank every single one who open-sources their source code for their effort to contribute
 something to the open-source community. Your work means the world! 🌍 ❤️
 
 ## Useful Links
